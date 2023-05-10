@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 40px; /* espaciado de la pagina */
+    /* background-color:#DDDDDD;  color de fondo de la página */
+    background: url(photo-1597638230521-3264bc9efd7f.avif);
+    background-size:cover;
+}
+h1 {
+   color: azure;
+}
+h2 {
+   color: azure;
+}
+.H2style {
+   color: azure;
+}
+h3 {
+   color:azure;
+}
+P {
+   color:mediumspringgreen;
+}
+.H2style {
+backdrop-filter: blur 40;
+}
+form{
+   color:lavender
+}
+ul{
+   list-style: none;
+   display:flex;
+   justify-content: center;
+   gap: 90px;
+   color:aliceblue;
+}
